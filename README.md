@@ -22,7 +22,7 @@
 
 ## 아키텍처
 > 클라이언트 (Web) <-> Flask <-> MySQL 
-<img src='https://github.com/kksung/ssg_project/assets/110016279/d622d7bc-cba7-44e9-ac33-106911ee1cb3'>
+<img src='https://github.com/kksung/ssg_kubernetes/assets/110016279/1308d3b1-1a06-4c0a-a9a2-ec47f458eafe'>
 
 - front-end, back-end, DB  
 
@@ -39,7 +39,7 @@
 <br>
 
 ## DB ERD
-<img src="https://github.com/kksung/ssg_project/assets/110016279/041ca7d6-d65f-49a6-b8b3-874038dfd9d8" width=700 height=500>
+<img src="https://github.com/kksung/ssg_kubernetes/assets/110016279/d6f3acf8-dcff-4609-8ba1-392f8079aeeb" width=700 height=500>
 
 <br>
 
@@ -58,7 +58,7 @@ db = pymysql . connect(host="localhost",
 <br>
 
 ## 기능 flow
-<img src="https://github.com/kksung/ssg_project/assets/110016279/80774f48-7023-42c5-8ecc-b97357e5dd4b" width=730 height=550>
+<img src="https://github.com/kksung/ssg_kubernetes/assets/110016279/f7c3fca2-f11c-4aab-bfa0-5a549cfa95eb" width=730 height=550>
 
 <br>
 
